@@ -1,7 +1,7 @@
 ![](image.png)
 
 <div align="center">
-   Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
+   Live Link : https://nike-landing-page-ab592u2mj-pikolosans-projects.vercel.app/
 </div>
 # Nike Shoe Landing Page
 
