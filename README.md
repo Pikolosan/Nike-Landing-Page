@@ -1,4 +1,8 @@
 ![](image.png)
+
+<div align="center">
+   Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
+</div>
 # Nike Shoe Landing Page
 
 ## Project Overview
